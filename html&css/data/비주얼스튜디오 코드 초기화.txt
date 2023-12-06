@@ -1,0 +1,8 @@
+1. 플러그인 삭제
+로컬 디스크(C:) > 사용자 > user > .vscode 삭제
+
+2. 설정 파일 삭제(보기 -> 숨긴항목 체크)
+로컬 디스크(C:) > 사용자 > user > AppData > Roaming > Code 삭제
+
+3. 프로그램 삭제
+Microsoft visual studio code
